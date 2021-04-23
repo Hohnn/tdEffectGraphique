@@ -87,6 +87,7 @@ figure::before {
 }
 #outdoor .img-wrapper {
     background-image: url(../img/outdoor.jpg);
+    background-size: cover;
 
 }
 #contact .img-wrapper {
